@@ -1,0 +1,14 @@
+{
+  "hitbox_mod": {
+    "target_bone_index": "neck_01",
+    "primary_offset": "0x5b8", 
+    "secondary_offset": "0x5c8",
+    "collision_radius": 4.5,
+    "priority": 1,
+    "silent_aim": {
+      "active": true,
+      "fov_offset": "0x750",
+      "smooth": 0.1
+    }
+  }
+}
